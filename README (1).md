@@ -12,13 +12,6 @@
 **Thapar Institute of Engineering & Technology**  
 *Group 3C11 — Deep Learning (UCS761)*
 
-| Member | Roll No. |
-|--------|----------|
-| Isha Gupta | 102303007 |
-| Mohammad Aaban | 102303015 |
-| Kriti Goyal | 102303032 |
-| Riddhi Jain | 102483079 |
-
 **Supervisor:** Dr. Stuti Chug
 
 </div>
