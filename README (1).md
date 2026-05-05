@@ -779,20 +779,10 @@ full_evaluation(model, X_test, y_test,
 
 ## 📄 License
 
-This project is submitted as an academic requirement for the Deep Learning course (UCS761) at Thapar Institute of Engineering & Technology. All rights reserved by the authors and the institution.
+This project is submitted as an academic requirement for the Deep Learning course (UCS761) at Thapar Institute of Engineering & Technology. All rights reserved by the author and the institution.
 
 ---
 
 <div align="center">
-
-**Made with ❤️ at Thapar Institute of Engineering & Technology**
-
-*Group 3C11 — Isha Gupta · Mohammad Aaban · Kriti Goyal · Riddhi Jain*
-
-*Supervised by Dr. Stuti Chug*
-
----
-
-⭐ If you found this project useful, please consider starring the repository!
 
 </div>
